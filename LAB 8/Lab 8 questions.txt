@@ -1,0 +1,18 @@
+Q1) Implement stack using array and perform following operation
+i. Push operation
+ii. Pop
+properly handle underflow and overflow condition
+
+Q2)Implement stack using singly linked list
+
+Q3) Using doubly linked list
+
+Q4)Convert infix exp into postfix
+
+Q5) WAF to evaluate postfix expression using stack
+
+Q6) WAP to check wheather parenthisis are balanced.
+
+Q7) Using stack check wheather string is palindrome or not
+
+
